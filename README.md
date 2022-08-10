@@ -49,7 +49,7 @@
   
   - Step 8: Making Final Business Decisions
     - Upon multilinear regression analysis on the given dataset, we evaluate the following quantities:
-    - - The best fitted model equation is -> `cnt` = 0.0862 + (`yr` × 0.2342) - (`holiday` × 0.0813) + (`atemp` × 0.5674) - (`windspeed` × 0.1239) + (`mnth_august` × 0.0538) + (`mnth_september` × 0.1048) + (`season_summer` × 0.0880) + (`season_winter` × 0.1252) - (`weathersit_light` × 0.2454)
+    - The `best fitted model equation` is -> `cnt` = 0.0862 + (`yr` × 0.2342) - (`holiday` × 0.0813) + (`atemp` × 0.5674) - (`windspeed` × 0.1239) + (`mnth_august` × 0.0538) + (`mnth_september` × 0.1048) + (`season_summer` × 0.0880) + (`season_winter` × 0.1252) - (`weathersit_light` × 0.2454)
     - **Training Data**
       - R<sup>2</sup> value = 0.800
       - Adjusted R<sup>2</sup> value = 0.796
