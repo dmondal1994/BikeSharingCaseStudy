@@ -60,5 +60,5 @@
   
     - The difference in R<sup>2</sup> values between the train and test datasets is `0.800 - 0.774 = 0.026 (less than 0.5)`. Additionally, the difference in adjusted-R<sup>2</sup> values between the train and test datasets is `0.796 - 0.763 = 0.033 (less than 0.5)`. As a result, using the training data, we effectively built a predictive model.
   
-    - In terms of achieving business goals, `feeling temperature (i.e. 'atemp' variable)`, `Light Weather (Snow/Rain/Thunderstorm/Scattered clouds etc.) (i.e. 'weathersit_light' variable)`, and `year (i.e. 'yr' variable)` are the top three parameters for booking bike rides.
+    - In terms of achieving business goals, `feeling temperature i.e. 'atemp' variable`, `Light Weather (Snow/Rain/Thunderstorm/Scattered clouds etc.) i.e. 'weathersit_light' variable`, and `year i.e. 'yr' variable` are the top three parameters for booking bike rides.
   
